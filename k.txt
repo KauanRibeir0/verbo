@@ -1,1 +1,3 @@
-uma frase bem pensada
+uma frase bem pensada:
+
+"No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
